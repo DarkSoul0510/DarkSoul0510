@@ -69,18 +69,3 @@
 
 ### 🔥 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=kushagraKansal&color=blue)
-
----
-
-### ⚡ Fun Challenge
-> Commit at least once a day for the next 30 days — let's green that graph 🌱  
-Tag me when you're done — I wanna see it! 😉
-
----
-
-## 📦 Next Step?
-Wanna turn this into a **PDF for safekeeping** or get a **cool banner image** for the top of your GitHub profile? I can make that too. Just say:
-
-`yo I want the PDF/banner/both` and I got you 😎
-
-Let’s make your GitHub **go from basic to beast mode** 🐉
